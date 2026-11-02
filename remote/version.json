@@ -1,8 +1,8 @@
 {
   "version_name": "1.0.0",
-  "build_number": 0,
-  "apk_url": "",
-  "sha256": "",
-  "changelog": "",
+  "build_number": 101,
+  "apk_url": "https://github.com/qbrahym02-cmyk/mahami-flutter-ota/releases/download/v1.0.0-b101/mahami.apk",
+  "sha256": "048ccf00a735f293d6c678308f6377687b72fcfa36c4f7aba8d2c784aab806dc",
+  "changelog": "مهامي: Flutter To-Do مع تحديث عن بُعد (remote config + in-app APK update)",
   "mandatory": false
 }
