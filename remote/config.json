@@ -1,0 +1,20 @@
+{
+  "app_title": "مهامي",
+  "primary_color": "#6750A4",
+  "announcement": {
+    "enabled": true,
+    "type": "info",
+    "text": "مرحباً بك في مهامي 👋 هذا الإعلان يأتي من السيرفر — عدّله في remote/config.json وسيظهر عندك بدون أي تحديث."
+  },
+  "features": {
+    "show_stats": true,
+    "show_priority": true,
+    "confirm_delete": false
+  },
+  "quick_tasks": ["شرب الماء 💧", "قراءة 20 صفحة 📖", "رياضة 30 دقيقة 🏃", "مراجعة البريد 📧"],
+  "empty_message": "لا توجد مهام بعد — أضف أول مهمة!",
+  "maintenance": {
+    "enabled": false,
+    "message": "نقوم بتحسينات سريعة، نعود خلال دقائق."
+  }
+}
